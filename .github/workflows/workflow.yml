@@ -29,4 +29,4 @@ jobs:
         with:
           cmd: build
       - name: Copy folder to where nginx expects it to be
-        run: sudo cp -r ${{secrets.COPY_FROM_FOLDER}} ${{secrets.COPY_TO_FOLDER}}
+        run: sudo -S cp -r ${{secrets.COPY_FROM_FOLDER}} ${{secrets.COPY_TO_FOLDER}}
