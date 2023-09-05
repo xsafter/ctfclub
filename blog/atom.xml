@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xsafter.fr.to/blog</id>
+    <title>Xsafter's CTF Club Blog</title>
+    <updated>2023-09-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xsafter.fr.to/blog"/>
+    <subtitle>Xsafter's CTF Club Blog</subtitle>
+    <icon>https://xsafter.fr.to/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Тут что-то будет]]></title>
+        <id>https://xsafter.fr.to/blog/first-blog-post</id>
+        <link href="https://xsafter.fr.to/blog/first-blog-post"/>
+        <updated>2023-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[В этом разделе тоже наверное что-то будет, хз кароч]]></summary>
+        <content type="html"><![CDATA[<p>В этом разделе тоже наверное что-то будет, хз кароч</p>]]></content>
+        <author>
+            <name>xsafter ака Романов</name>
+            <uri>https://t.me/xsafter</uri>
+        </author>
+        <category label="offtop" term="offtop"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctfclub=self.webpackChunkctfclub||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0422\u0443\u0442 \u0447\u0442\u043e-\u0442\u043e \u0431\u0443\u0434\u0435\u0442","permalink":"/blog/first-blog-post"}]}')}}]);

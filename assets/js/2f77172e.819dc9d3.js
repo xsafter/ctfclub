@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctfclub=self.webpackChunkctfclub||[]).push([[844],{9275:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/offtop","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
