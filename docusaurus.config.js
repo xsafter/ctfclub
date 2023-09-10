@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Разное', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus', //TODO
+            href: 'https://github.com/xsafter/ctfclub',
             label: 'GitHub',
             position: 'right',
           },
