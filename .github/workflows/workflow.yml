@@ -30,3 +30,11 @@ jobs:
           cmd: build
       - name: Copy folder to where nginx expects it to be
         run: echo ${{secrets.SUDO_PASSWORD}} | sudo -S cp -r ${{secrets.COPY_FROM_FOLDER}} ${{secrets.COPY_TO_FOLDER}}
+
+      - name: Discord Commits
+        uses: Sniddl/discord-commits@v1.6
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          template: 'avatar-with-link'
+          message: "Новый материал на сайте:"
+          include-extras: true
