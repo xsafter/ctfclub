@@ -1,0 +1,8 @@
+{
+  "label": "A&D. Базовый",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Введение в Attack&Defence CTF"
+  }
+}
